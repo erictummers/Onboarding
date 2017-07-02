@@ -1,0 +1,22 @@
+{
+    "items": [{ 
+        "icon": "ion-android-bar",
+        "title": "Vrijdag borrel",
+        "subtitle": "28 juli Posthoorn in Maastricht" 
+    },
+    { 
+        "icon": "ion-ionic",
+        "title": "Competence avond - Cloud",
+        "subtitle": "31 juli - Skype meeting" 
+    },
+    { 
+        "icon": "ion-ios-game-controller-b-outline",
+        "title": "Paintballen met de PV",
+        "subtitle": "24 augustus in Eindhoven" 
+    },
+    { 
+        "icon": "ion-social-vimeo",
+        "title": "Introductie dag",
+        "subtitle": "1 september Valid Maastricht" 
+    }]
+}
